@@ -1,5 +1,9 @@
+<p align="center" width="300">
+<img align="center" witdh="200" src="https://user-images.githubusercontent.com/44618066/183179584-f46cb610-2c59-4aac-aa1e-db5c26629ec6.png"/>
+<h3 align="center">¡Hey 👋! Soy Pronunts👨🏻‍💻</h3>
+</p>
 <h2>Hi I'm José Rodriguez✋</h2>
-<p>I'm Frontend Developer. Me especializo en la parte del frontend, aunque por lo pronto estoy procesos de aprendizaje en tecnologias del Backend (Express, Graphql)<p>
+<p>I'm Frontend Developer. Me especializo en la parte del frontend, aunque por lo pronto estoy proceso de aprendizaje en tecnologias del Backend (Express, Graphql)<p>
 
 
 ```javascript
